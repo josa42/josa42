@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](https://github.com/josa42/josa42/raw/master/banner.svg)
+
 <!--
 **josa42/josa42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
