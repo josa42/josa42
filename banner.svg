@@ -1,11 +1,12 @@
 <svg viewBox="0 0 800 160" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 
+  <rect x="0" y="0" width="100%" height="100%" rx="5" stroke="#e1e4e8" fill="#ffffff" />
+
   <circle id="circle" r="5" cx="5" cy="5" fill="#000000"  />
 
-  <rect id="player-1" x="0" y="0" width="5" height="60" fill="#000000" />
-  <rect id="player-2" x="calc(100% - 5)" y="0" width="5" height="60" fill="#000000" />
+  <rect id="player-1" x="5"               y="0" width="5" height="60" rx="2" fill="#000000" />
+  <rect id="player-2" x="calc(100% - 10)" y="0" width="5" height="60" rx="2" fill="#000000" />
 
-<!-- fill="#e1e4e8" -->
   <animate
     xlink:href="#circle"
     attributeName="cx"
@@ -18,19 +19,19 @@
     attributeName="cy"
     dur="10s"
     repeatCount="indefinite"
-    values="35; calc(100% - 35); 35"/>
+    values="5; calc(100% - 5); 5"/>
 
   <animate
     xlink:href="#player-1"
     attributeName="y"
     dur="10s"
     repeatCount="indefinite"
-    values="0; calc(100% - 60); 0"/>
+    values="2; calc(100% - 62); 2"/>
   <animate
     xlink:href="#player-2"
     attributeName="y"
     dur="10s"
     repeatCount="indefinite"
-    values="0; calc(100% - 60); 0"/>
+    values="2; calc(100% - 62); 2"/>
 </svg>
 
