@@ -1,6 +1,17 @@
-### Hi there 👋
+**Hi there 👋**
 
-![](https://github.com/josa42/josa42/raw/master/banner.svg)
+---
+
+![](banner.svg)
+
+---
+## Friends
+
+**Tom**
+
+![](https://i.insider.com/4efd9b8b69bedd682c000022?width=200)
+
+
 
 <!--
 **josa42/josa42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
