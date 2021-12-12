@@ -1,9 +1,7 @@
 **Hi there 👋**
 
-
-![](banner.svg)
-
 <!--
+![](banner.svg) 
 
 ---
 
