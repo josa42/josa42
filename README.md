@@ -1,10 +1,11 @@
 **Hi there 👋**
 
+<!--
 <br>
 
 ## Projects
 
-<!--
+
 📦 **[neovim](https://github.com/neovim/neovim) plugins**
 
 - [josa42/nvim-gx](https://github.com/josa42/nvim-gx)
